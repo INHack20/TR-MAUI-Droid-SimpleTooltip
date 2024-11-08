@@ -11,7 +11,7 @@
     <Copyright>MIT license</Copyright>
     <PackageOutputPath>$(MSBuildThisFileDirectory)..\Nugets</PackageOutputPath>
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
-    <PackageProjectUrl>https://github.com/INHack20/TR-MAUI-Droid-SimpleTooltip</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/INHack20/TR.MAUI.Droid.SimpleTooltip</PackageProjectUrl>
   </PropertyGroup>
   <ItemGroup>
     <None Include="..\LICENSE.md">
